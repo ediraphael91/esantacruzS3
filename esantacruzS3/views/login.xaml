@@ -46,11 +46,11 @@
                       HorizontalOptions="Center"
                       FontSize="18"
                       Grid.Row="1"
-                      Grid.Column="1"/>
+                      Grid.Column="0"/>
                     <Entry x:Name="txtContraseña"
                      Placeholder="Ingrese la contaseña"
                      IsPassword="True"
-                            Grid.Row="0"
+                            Grid.Row="1"
                             Grid.Column="1"/>
 
 

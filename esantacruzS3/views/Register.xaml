@@ -4,7 +4,10 @@
              x:Class="esantacruzS3.views.Register"
              NavigationPage.HasBackButton="False"
              Title="Register">
-    <VerticalStackLayout>
+    <VerticalStackLayout
+        Spacing="14"
+        Padding="20"
+        >
         <Label 
             Text="VENTANA DE REGISTRO"
             FontSize="20"
