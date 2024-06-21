@@ -9,9 +9,10 @@
         Padding="25"
         >
         <Label 
-Text="VENTANA DE REGISTRO"
-FontSize="20"
-HorizontalTextAlignment="Center"/>
+            Text="VENTANA DE REGISTRO"
+            FontSize="20"
+            HorizontalTextAlignment="Center"
+            TextColor="RED"/>
 
         <Grid RowSpacing="15">            
             
