@@ -54,7 +54,7 @@
                             Grid.Column="1"/>
 
 
-            <Button x:Name="btnInicio"
+         <Button x:Name="btnInicio"
          Text="Inciar Sesion"
          Clicked="btnInicio_Clicked"
            Grid.Row="3"
