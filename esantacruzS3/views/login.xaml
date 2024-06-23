@@ -14,7 +14,7 @@
             FontSize="20"
             TextColor="RED"
             />
-        
+
         <Image Source="uisrael.png" WidthRequest="100"/>
         
         
